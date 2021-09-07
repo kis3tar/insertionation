@@ -2,7 +2,8 @@
 
 [![Build Status](https://img.shields.io/travis/kis3tar/RuAnnoy/master.svg)](https://travis-ci.org/kis3tar/RuAnnoy)
 [![Build status](https://img.shields.io/appveyor/ci/kis3tar/RuAnnoy/master.svg)](https://ci.appveyor.com/project/kis3tar/RuAnnoy)
-![Crates.io](https://img.shields.io/crates/v/ru_annoy.svg)
+[![Crates.io](https://img.shields.io/crates/v/ru_annoy.svg)](https://crates.io/crates/ru_annoy)
+[![Coverage Status](https://coveralls.io/repos/github/kis3tar/RuAnnoy/badge.svg?branch=master)](https://coveralls.io/github/kis3tar/RuAnnoy?branch=master)
 [![MIT License](https://img.shields.io/github/license/kis3tar/RuAnnoy.svg)](https://github.com/kis3tar/RuAnnoy/blob/master/LICENSE)
 ========
 
