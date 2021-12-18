@@ -32,7 +32,7 @@ repositories {
 }
   
 dependencies {
-  implementation 'com.github.kis3tar:RuAnnoy:0.1.2+1'
+  implementation 'com.github.kis3tar:RuAnnoy:0.1.2'
 }
 ```
 #### Usage
