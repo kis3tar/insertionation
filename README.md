@@ -1,7 +1,7 @@
 # RuAnnoy
 
 [![main](https://github.com/kis3tar/RuAnnoy/actions/workflows/main.yml/badge.svg)](https://github.com/kis3tar/RuAnnoy/actions/workflows/main.yml)
-[![appveyor](https://img.shields.io/appveyor/ci/kis3tar/RuAnnoy/master.svg)](https://ci.appveyor.com/project/kis3tar/RuAnnoy)
+[![appveyor](https://ci.appveyor.com/api/projects/status/ux13ive7vhsg32el/branch/master?svg=true)](https://ci.appveyor.com/project/kis3tar/ruannoy/branch/master)
 [![travis](https://travis-ci.com/kis3tar/RuAnnoy.svg?branch=master)](https://travis-ci.com/github/kis3tar/RuAnnoy)
 [![MIT License](https://img.shields.io/github/license/kis3tar/RuAnnoy.svg)](https://github.com/kis3tar/RuAnnoy/blob/master/LICENSE)
 ========
