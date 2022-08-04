@@ -1,7 +1,6 @@
 # RuAnnoy
 
 [![main](https://github.com/kis3tar/RuAnnoy/actions/workflows/main.yml/badge.svg)](https://github.com/kis3tar/RuAnnoy/actions/workflows/main.yml)
-[![travis](https://travis-ci.com/kis3tar/RuAnnoy.svg?branch=master)](https://travis-ci.com/github/kis3tar/RuAnnoy)
 [![MIT License](https://img.shields.io/github/license/kis3tar/RuAnnoy.svg)](https://github.com/kis3tar/RuAnnoy/blob/master/LICENSE)
 ========
 
