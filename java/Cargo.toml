@@ -8,6 +8,8 @@ name = "annoy-rs-jni"
 repository = "https://github.com/kis3tar/RuAnnoy"
 version = "0.1.0"
 
+publish = false
+
 [features]
 default = []
 
